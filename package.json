@@ -8,8 +8,8 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
-  "license": "MIT",
+  "author": "Alex Cho",
+  "license": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
